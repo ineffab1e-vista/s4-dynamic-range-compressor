@@ -15,4 +15,4 @@ All `*.py` files and `*.ipynb` files are main scripts or Jupyter Notebook files.
 They are main scripts supposed to be executed directly.
 
 All main scripts can receive command-line arguments. Run `*.py --help` to see the full list.
-Main scripts can automatically handle dataset downloading without any manual setup.
+Main scripts can automatically handle dataset downloading without any manual setup
